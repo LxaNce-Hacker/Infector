@@ -46,7 +46,7 @@ echo " "
 baner1(){
 clear
 echo -e '\e[93m               
-                         __________
+                         __LxaNce__
                       .~#########%%;~.
                      /############%%;`\
                     /######/~\/~\%%;,;,\
@@ -59,15 +59,15 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infector        @#%,.@        
-                @#%,.@              @#%,.@          
-                  @#%,.@          @#%,.@            
+ X# \.X        @#%,.@    Infector       @#%,.@        
+                @#%,.@                @#%,.@          
+                  @#%,.@           @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
                         LxaNce-Hacker
 '
 echo " " 
-echo -e "$red                       ▶Coded by$grn Prince Katiyar$red◀$rset"
+echo -e "$red                    ▶Coded by$grn Prince Katiyar$red◀$rset"
 echo -e "$red                      ⫸$ylo  LxaNce-Hacker$red ⫷$rset"
 echo 
 # Functions
@@ -202,14 +202,14 @@ echo -e '\e[91m
          ─▐─█────█─▌─
          ────▌──▐────
 '
-echo -e "\e[93m                  CALL ME \e[92mLxaNce" | pv -qL 10
-echo -e "\e[93m             I'M FROM \e[92mLXANCE-HACKER" | pv -qL 10
-echo -e "\e[93m       I'M A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
-echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
-echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
-echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP" | pv -qL 10
-echo -e "\e[93m        MY WEBSITE:\e[92m http://lxance.xyz\e[0m" | pv -qL 10
-echo -e "\e[92m                BYEE...........BYE" | pv -qL 10
+echo -e "\e[93m                  CALL ME \e[92mLxaNce"
+echo -e "\e[93m             I'M FROM \e[92mLXANCE-HACKER"
+echo -e "\e[93m       I'M A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT"
+echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT"
+echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT "
+echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP"
+echo -e "\e[93m        MY WEBSITE:\e[92m http://lxance.xyz\e[0m"
+echo -e "\e[92m                BYEE...........BYE"
 sleep 6.0
 banner
 menu
