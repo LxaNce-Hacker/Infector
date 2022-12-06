@@ -14,7 +14,7 @@ pink="\e[95m"
 banner(){
 vid
 echo -e '\e[93m               
-                         __________
+                         __LxaNce__
                       .~#########%%;~.
                      /############%%;`\
                     /######/~\/~\%%;,;,\
@@ -27,9 +27,9 @@ echo -e '\e[93m
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X'
 echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@    Infector        @#%,.@        
-                @#%,.@              @#%,.@          
-                  @#%,.@          @#%,.@            
+ X# \.X        @#%,.@    Infector       @#%,.@        
+                @#%,.@                @#%,.@          
+                  @#%,.@           @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
                         LxaNce-Hacker
@@ -218,7 +218,7 @@ upd(){
 if [ -d "$HOME/Infector" ];
 then
 cd $HOME
-rm -rf infect
+rm -rf Infector
 elif [ -d "$HOME/Infector" ];
 then
 cd $HOME
