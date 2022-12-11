@@ -9,6 +9,7 @@ ylo="\e[93m"
 blue="\e[94m"
 cyan="\e[96m"
 pink="\e[95m"
+# LxaNce
 #-----------------
 # scripting start
 banner(){
@@ -43,6 +44,7 @@ echo -e "$red                    [Infect them with fun]$rset"
 echo " "
 echo " "
 }
+# LxaNce-Hacker
 baner1(){
 clear
 echo -e '\e[93m               
@@ -66,6 +68,7 @@ echo -e '\e[92mX  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                        @#%.,@  @#%,.@              
                         LxaNce-Hacker
 '
+# LxaNce-Hacker
 echo " " 
 echo -e "$red                    ▶Coded by$grn Prince Katiyar$red◀$rset"
 echo -e "$red                      ⫸$ylo  LxaNce-Hacker$red ⫷$rset"
@@ -110,6 +113,7 @@ then
 am start -a android.intent.action.VIEW -d https://www.youtube.com/channel/UCJykvw-Dtc2F8A-Z9oQAFBg > /dev/null 2>&1
 banner
 menu
+# LxaNce-Hacker
 elif [ $optnz = "6" ];
 then
 am start -a android.intent.action.VIEW -d http://lxance.xyz > /dev/null 2>&1
@@ -154,6 +158,7 @@ if [ $exitz = "exit" ];
 then
 banner
 menu
+# LxaNce-Hacker
 else
 banner
 menu
@@ -185,6 +190,7 @@ if [ $exitz = "exit" ];
 then
 banner
 menu
+# LxaNce-Hacker
 else
 banner
 menu
@@ -213,6 +219,7 @@ echo -e "\e[92m                BYEE...........BYE"
 sleep 6.0
 banner
 menu
+# LxaNce-Hacker
 }
 upd(){
 if [ -d "$HOME/Infector" ];
@@ -235,7 +242,7 @@ printf "                     \e[96m["
 # While process is running...
 while git clone https://github.com/LxaNce-Hacker/Infector 2> /dev/null; do 
     printf  "\e[92m▓▓▓▓▓▓▓▓▓▓▓▓▓\e[0m"
-    sleep 1
+    sleep 1 
 done
 printf "\e[96m]\e[0m"
 echo
@@ -243,7 +250,7 @@ echo
 echo
 printf "\e[96m           UPDATE SUCCESSFULL (LATEST VERSION)..!\e[0m"
 sleep 2.0
-cd $HOME
+cd $HOME # LxaNce-Hacker
 cd Infector
 bash Infector.sh
 }
@@ -280,6 +287,7 @@ then
 clear
 baner1
 menu
+# LxaNce-Hacker
 elif [ "$p" = "z" ];
 then
 cd $HOME/Infector
@@ -295,3 +303,4 @@ fi
 banner
 menu
 Footer
+# LxaNce-Hacker
