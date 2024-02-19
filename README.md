@@ -94,7 +94,7 @@ __EXIT__ :
 [![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://lxance.xyz)
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/LxaNce_Hacker)
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Dorez09CKKSG9mnwHadC5n)
-<a href="https://www.youtube.com/@lxancehacker8315"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://www.youtube.com/@LxaNce"><img title="YouTube" src="https://img.shields.io/badge/YouTube-LxaNce Hackers-red?style=for-the-badge&logo=Youtube"></a>
 
 ## BUY ME A COFFEE :
 
